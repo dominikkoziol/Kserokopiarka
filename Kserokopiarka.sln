@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kserokopiarka", "Kserokopiarka.csproj", "{6CDF4158-7C60-4A9B-B211-5E900EE54EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KseroTests", "..\KseroTests\KseroTests.csproj", "{68FC9876-F94C-4210-86E1-02E0E8C287E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDF4158-7C60-4A9B-B211-5E900EE54EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDF4158-7C60-4A9B-B211-5E900EE54EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDF4158-7C60-4A9B-B211-5E900EE54EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDF4158-7C60-4A9B-B211-5E900EE54EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FC9876-F94C-4210-86E1-02E0E8C287E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FC9876-F94C-4210-86E1-02E0E8C287E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FC9876-F94C-4210-86E1-02E0E8C287E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FC9876-F94C-4210-86E1-02E0E8C287E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D9E9423-1B28-46F6-B427-DDAA150B1CF4}
+	EndGlobalSection
+EndGlobal
